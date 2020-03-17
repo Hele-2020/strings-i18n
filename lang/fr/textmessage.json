@@ -1,0 +1,4 @@
+{
+    "MSG_REGISTER": "Salut :username !\nBienvenu sur Hélé. Ton mot de passe pour te connecter est :password.\nA bientôt sur Hélé !",
+    "MSG_PASSWORD_RESET": ":code\nVoici ton code pour la génération de ton nouveau mot de passe.\nSi tu n'est pas à l'origine de cette demande, contacte un administrateur."
+}

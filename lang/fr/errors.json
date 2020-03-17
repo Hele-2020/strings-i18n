@@ -1,0 +1,18 @@
+{
+    "E_USER_IDENTIFIER_OR_PASSWORD_INCORRECT": "Couple identifiant/mot de passe incorrect.",
+    "E_USER_IDENTIFIER_REQUIRED": "Un identifiant est requis.",
+    "E_PHONE_REQUIRED": "Le numéro de téléphone est requis.",
+    "E_PHONE_WRONG_FORMAT": "Format du numéro de téléphone incorrect.",
+    "E_PHONE_NOT_UNIQUE": "Ce numéro de téléphone est déjà utilisé.",
+    "E_USERNAME_REQUIRED": "Le pseudonyme est requis.",
+    "E_USERNAME_WRONG_FORMAT": "Format du pseudonyme incorrect.",
+    "E_PASSWORD_REQUIRED": "Le mot de passe est requis.",
+    "E_AGE_REQUIRED": "L'age est requis.",
+    "E_AGE_VALIDATION": "Age incorrect, il doit être compris entre :agemin et :agemax.",
+    "E_ESTABLISHMENT_CODE_REQUIRED": "Le code d'établissement est requis.",
+    "E_ESTABLISHMENT_CODE_NOT_FOUND": "Le code d'établissement n'a pas été trouvé.",
+    "E_RESET_CODE_REQUIRED": "Le code de réinitialisation est requis.",
+    "E_RESET_CODE_NOT_FOUND": "Le code de réinitialisation n'a pas été trouvé.",
+    "E_RESET_CODE_ALREADY_REQUESTED": "Le code de réinitialisation a déjà été demandé dans les denières 24 heures.",
+    "E_RESET_CODE_NOT_VALID": "Le code de réinitialisation est invalide."
+}

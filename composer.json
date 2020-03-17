@@ -1,0 +1,14 @@
+{
+    "name": "leniglo/strings-i18n",
+    "description": "MultiLanguage i18n packageMultiLanguage i18n package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LeNiglo",
+            "email": "lefrantguillaume@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
