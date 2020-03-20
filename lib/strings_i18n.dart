@@ -21,7 +21,7 @@ Future<Null> _unused2 = new File('../lang/fr/textmessages.json').readAsString()
 
 /// A Calculator.
 class StringsI18N {
-  static String error(String code, List<String> params) {
+  static String error(String code, [List<String> params]) {
     String val = errors[code];
     if (val != null) {
       return sprintf(val, params);
